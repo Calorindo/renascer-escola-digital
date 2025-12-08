@@ -19,7 +19,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="opacity-70 max-w-md mb-6">
-              Há mais de 15 anos formando cidadãos felizes e preparados para o futuro. 
+              formando cidadãos felizes e preparados para o futuro. 
               Um ambiente de amor, respeito e aprendizado.
             </p>
             <div className="flex gap-3">
