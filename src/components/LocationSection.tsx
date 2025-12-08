@@ -26,7 +26,7 @@ const LocationSection = () => {
           <div className="relative">
             <div className="aspect-video lg:aspect-square rounded-3xl overflow-hidden shadow-card bg-card">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.0976051642177!2d-46.65512892466569!3d-23.56507126164867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c8da0aa315%3A0xd59f9431f2c9776a!2sAv.%20Paulista%2C%20S%C3%A3o%20Paulo%20-%20SP!5e0!3m2!1spt-BR!2sbr!4v1704067200000!5m2!1spt-BR!2sbr"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d139.79017021706767!2d-50.2600401!3d-29.8942443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95186f560bba6c09%3A0x84ae782752b187f!2sR.%20Castro%20Alves%2C%2097%20-%20Sulbrasileiro%2C%20Os%C3%B3rio%20-%20RS%2C%2095520-000!5e0!3m2!1spt-BR!2sbr!4v1733687999999"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -61,9 +61,9 @@ const LocationSection = () => {
                 <div>
                   <h3 className="font-display text-lg font-bold text-foreground mb-2">Endereço</h3>
                   <p className="text-muted-foreground">
-                    Rua das Flores, 123<br />
-                    Bairro Jardim Primavera<br />
-                    São Paulo - SP, 01234-567
+                    Rua Castro Alves, 97<br />
+                    Bairro Sul Brasileiro<br />
+                    Osório - RS, 95520-000
                   </p>
                 </div>
               </div>
@@ -93,9 +93,9 @@ const LocationSection = () => {
                 <div>
                   <h3 className="font-display text-lg font-bold text-foreground mb-2">Contato Rápido</h3>
                   <p className="text-muted-foreground">
-                    Telefone: (11) 1234-5678<br />
-                    WhatsApp: (11) 91234-5678<br />
-                    contato@escolarenascer.com.br
+                    Telefone: (51) 996355808<br />
+                    WhatsApp: (11) 99635-5808<br />
+                    associacaoculturalmarias@gmail.com
                   </p>
                 </div>
               </div>
@@ -109,8 +109,7 @@ const LocationSection = () => {
                 <div>
                   <h3 className="font-display text-lg font-bold text-foreground mb-2">Como Chegar</h3>
                   <p className="text-muted-foreground">
-                    Próximo à estação de metrô<br />
-                    Várias linhas de ônibus<br />
+                    Próximo ao clube de piscina SulBrasileiro<br />
                     Estacionamento próprio gratuito
                   </p>
                 </div>

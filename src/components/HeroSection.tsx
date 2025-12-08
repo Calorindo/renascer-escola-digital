@@ -34,8 +34,7 @@ const HeroSection = () => {
             </div>
             
             <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-tight mb-6 animate-fade-in" style={{ animationDelay: "0.1s" }}>
-              Escola de Educação Infantil{" "}
-              <span className="text-gradient">Renascer</span>
+              Escola de Educação Infantil Renascer
             </h1>
             
             <p className="text-lg text-muted-foreground mb-8 max-w-xl mx-auto lg:mx-0 animate-fade-in" style={{ animationDelay: "0.2s" }}>

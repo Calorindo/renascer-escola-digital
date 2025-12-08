@@ -8,8 +8,8 @@ const features = [
   },
   {
     icon: Users,
-    title: "Turmas Reduzidas",
-    description: "Atenção individualizada para cada aluno, respeitando o ritmo e as necessidades de cada criança.",
+    title: "Artes e expressão",
+    description: "Atividades artísticas que explore as habilidades motoras ampla e fina, desenvolvendo a fantasia e a criatividade.",
   },
   {
     icon: Palette,
@@ -42,8 +42,7 @@ const AboutSection = () => {
           </h2>
           <p className="text-lg text-muted-foreground">
             A Escola de Educação Infantil Renascer nasceu do sonho de criar um espaço onde cada criança 
-            pudesse florescer em seu próprio tempo. Há mais de 15 anos, dedicamos nosso trabalho ao 
-            desenvolvimento integral de nossos pequenos alunos.
+            pudesse florescer em seu próprio tempo.
           </p>
         </div>
 
@@ -55,9 +54,7 @@ const AboutSection = () => {
             </div>
             <h3 className="font-display text-2xl font-bold text-foreground mb-4">Nossa Missão</h3>
             <p className="text-muted-foreground leading-relaxed">
-              Proporcionar um ambiente seguro, acolhedor e estimulante onde as crianças possam 
-              desenvolver suas habilidades cognitivas, emocionais e sociais através de experiências 
-              significativas e do brincar.
+              Oferecer serviço de qualidade para promover a Educação do ser humano, possibilitando um crescimento socioeconômico e a satisfação das pessoas envolvidas.
             </p>
           </div>
 
@@ -69,7 +66,8 @@ const AboutSection = () => {
             <p className="text-muted-foreground leading-relaxed">
               Amor, respeito, criatividade e compromisso são os pilares que guiam nossa prática 
               pedagógica. Acreditamos que cada criança é única e merece ser valorizada em sua 
-              individualidade.
+              individualidade. Compromisso com o aprendizado, amor e respeito ao próximo, 
+              transformação com a prática pedagógica.
             </p>
           </div>
         </div>
