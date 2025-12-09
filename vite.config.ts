@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/renascer-escola-digital',
+  base: '/',
   plugins: [react()],
   resolve: {
     alias: {
