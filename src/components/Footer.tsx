@@ -83,11 +83,11 @@ const Footer = () => {
           <div>
             <h4 className="font-display font-bold text-lg mb-4">Contato</h4>
             <ul className="space-y-3 opacity-70">
-              <li>Rua das Flores, 123</li>
-              <li>Bairro Jardim Primavera</li>
-              <li>São Paulo - SP</li>
-              <li className="pt-2">(11) 1234-5678</li>
-              <li>contato@escolarenascer.com.br</li>
+              <li>Rua Castro Alves, 97</li>
+              <li>Bairro Sulbrasileiro</li>
+              <li>Osório - RS</li>
+              <li className="pt-2">(51) 99635-5808</li>
+              <li>associacaoculturalmarias@gmail.com</li>
             </ul>
           </div>
         </div>
